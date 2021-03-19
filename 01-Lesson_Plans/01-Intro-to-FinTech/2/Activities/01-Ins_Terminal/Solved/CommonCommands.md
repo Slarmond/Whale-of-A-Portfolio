@@ -87,3 +87,16 @@ Verify software version
 ```shell
 python --version
 ```
+
+
+Make a copy of a file in another location (This results in 2 files: file.txt and destination.txt)
+```shell
+cp file.txt destination.txt
+```
+
+MOVE a file to another location (This results in only 1 file: destination.txt)
+```shell
+mv file.txt destination.txt
+```
+
+
