@@ -12,7 +12,7 @@ git clone https://url-copied-from-website
 ```
 
 
-You're starting work on a shared project. You should
+You're starting work for the day on a shared project and you aren't sure if others have checked in recently. You should
 
 ```
 git pull
@@ -37,3 +37,12 @@ git push
 **The last command will show you another command you'll need to copy/paste/run**
 
 After checking in, your github manager will need to do the merge on the website.
+
+---
+If you're on your own repo and have no other collaborators and you just want to check in the quick-and-easy way:
+
+```
+git add .
+git commit -m "Commit message here"
+git push
+```
