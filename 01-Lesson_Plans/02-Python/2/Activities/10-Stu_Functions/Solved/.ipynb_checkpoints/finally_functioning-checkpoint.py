@@ -1,4 +1,3 @@
-
 """
 Determine the Compound Annual Growth Rate for an investment
 """
